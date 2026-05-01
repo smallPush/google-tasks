@@ -28,7 +28,7 @@ source .venv/bin/activate
 2. Install dependencies:
 
 ```bash
-pip install google-auth google-auth-oauthlib google-api-python-client
+pip install -r requirements.txt
 ```
 
 3. Place your OAuth client file as `credentials.json` in the project root.
